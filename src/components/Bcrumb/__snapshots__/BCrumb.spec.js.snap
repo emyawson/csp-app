@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <BCrumb/> 1`] = `
+<div>
+  <div
+    class="breadcrumb"
+  >
+    <nav
+      aria-label="Breadcrumb"
+      class="breadcrumb__nav"
+      data-cytest="breadcrumb"
+      role="navigation"
+    >
+      <ol
+        class="breadcrumb__list"
+        itemprop="breadcrumb"
+        itemscope=""
+        itemtype="http://schema.org/BreadcrumbList"
+      >
+        <li
+          class="breadcrumb__list-item"
+          itemprop="itemListElement"
+          itemscope=""
+          itemtype="http://schema.org/ListItem"
+        >
+           
+          <a
+            class="breadcrumb__link link link--black"
+            href="/nl/nl"
+            itemprop="item"
+          >
+            
+            <span
+              class="breadcrumb__item"
+              data-cytes="crumb"
+            >
+              IKEA
+            </span>
+          </a>
+           
+          <meta
+            content="1"
+            itemprop="position"
+          />
+        </li>
+        <li
+          class="breadcrumb__list-item"
+          itemprop="itemListElement"
+          itemscope=""
+          itemtype="http://schema.org/ListItem"
+        >
+           
+          <a
+            class="breadcrumb__link link link--black"
+            href="/nl/nl/customer-service"
+            itemprop="item"
+          >
+            
+            <span
+              class="breadcrumb__item"
+              data-cytes="crumb"
+            >
+              Klantenservice
+            </span>
+          </a>
+           
+          <meta
+            content="2"
+            itemprop="position"
+          />
+        </li>
+        <li
+          class="breadcrumb__list-item"
+          itemprop="itemListElement"
+          itemscope=""
+          itemtype="http://schema.org/ListItem"
+        >
+           
+          <a
+            class="breadcrumb__link link link--black"
+            href="/nl/nl/customer-service/support"
+            itemprop="item"
+          >
+            
+            <span
+              class="breadcrumb__item"
+              data-cytes="crumb"
+            />
+          </a>
+           
+          <meta
+            content="3"
+            itemprop="position"
+          />
+        </li>
+      </ol>
+    </nav>
+  </div>
+</div>
+`;

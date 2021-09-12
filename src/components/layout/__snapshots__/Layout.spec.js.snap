@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Layout/> 1`] = `
+<div>
+  <main
+    class="page-container"
+  >
+    <div
+      class="page-container__inner"
+    >
+      <div
+        class="page-container__main"
+      />
+    </div>
+  </main>
+</div>
+`;

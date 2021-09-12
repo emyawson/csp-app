@@ -1,0 +1,209 @@
+[
+    {
+        "id": "ca04c155d36e4093cf2b592320986ee5",
+        "content": "Closed today",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "58c564a3eba5d46658572c4e2dd3db12",
+            "name": "hoursClosed",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-24T13:23:30Z",
+        "updated_at": "2021-06-24T13:23:30Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "b75f796704bf8d64eff9ab251d73e89f",
+        "content": "Open today",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "155422f51ca4503f50b2a82182069d9e",
+            "name": "hoursOpen",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-24T13:21:32Z",
+        "updated_at": "2021-06-24T13:21:32Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "a68f0d34c46f84c360d262a95b265c85",
+        "content": "Please come back at a later time and we will help you. In the meantime maybe you can find the answer to your question in our commonly asked questions.",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "d25a94e3012bc98efc0a7a6f6963888c",
+            "name": "inlineMessageBody",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-24T13:19:04Z",
+        "updated_at": "2021-06-24T13:19:04Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "fa845375d6a9bcf670684ee71d541ca5",
+        "content": "Our customer center is now closed",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "5a09668776e5cce1c2b23f58b7cf7a80",
+            "name": "inlineMessageHead",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-24T13:18:01Z",
+        "updated_at": "2021-06-24T13:18:01Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "ede46c393faf63cc41ec6fe872ce9282",
+        "content": "The store is currently closed",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "8d46304b98f8c96a2f2330f2aab74dc0",
+            "name": "isClosed",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-04-27T12:14:29Z",
+        "updated_at": "2021-04-27T12:16:06Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "243954c6778ae7efd14296975a7e02e8",
+        "content": "The store is currently open",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "f1610d10162ca671592706abe066b038",
+            "name": "isOpen",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-04-27T12:13:41Z",
+        "updated_at": "2021-04-27T12:13:41Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "e9ebb0ecd66d8772ba33ccb488b61d70",
+        "content": "Your call with IKEA will not be charged",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "1eed83bb15a4296c7dfb576142c1de89",
+            "name": "noCharge",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-04-27T12:15:40Z",
+        "updated_at": "2021-04-27T12:15:57Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "f224c4d287417513d1252160d141f4ec",
+        "content": "Search for support",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "45f28c1f7afe471ac12f2a3bf472d95b",
+            "name": "searchHeadline",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-05-19T07:52:09Z",
+        "updated_at": "2021-05-19T07:52:09Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    },
+    {
+        "id": "4887135c8f53366a4ce7cc4b8cdc9f7a",
+        "content": "Do you have an additional issue or problem related to product availability and you can't find the answer? Contact customer service and we will help you.",
+        "unverified": false,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "527fcc7a24b3e33a9248e06a53b42d5f",
+            "name": "stillNeedHelpBody",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-01T07:38:30Z",
+        "updated_at": "2021-06-01T07:38:30Z",
+        "placeholders": [],
+        "state": "translated",
+        "locale": {
+            "id": "5d91d46324de32ccdcfe2885f15404a0",
+            "name": "en-NL",
+            "code": "en-NL"
+        }
+    }
+]

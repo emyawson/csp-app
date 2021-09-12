@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Faq/> 1`] = `
+<div>
+  <div
+    class="faq"
+  >
+    <h2
+      class="faq__headline"
+    >
+      Zoeken naar informatie
+    </h2>
+    <div
+      data-cytest="faq"
+    >
+      <km-search-integration
+        lang="nl-NL"
+      />
+      <km-faq-accordion
+        faqlang="nl"
+        lazyload="true"
+        listtitle=""
+        widget="m6"
+      />
+    </div>
+  </div>
+</div>
+`;

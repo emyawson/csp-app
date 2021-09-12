@@ -1,0 +1,19 @@
+phrase:
+  project_id: some-unique-id
+  push:
+    sources:
+    - file: .locales/en-NL.json
+      params:
+        file_format: simple_json
+        locale_id: some-unique-id-2
+        update_Translation: true
+  pull:
+    targets:
+    - file: .locales/en-NL.json
+      params:
+        file_format: simple_json
+        locale_id: some-unique-id-3
+    - file: .locales/en-US.json
+      params:
+        file_format: simple_json
+        locale_id: some-unique-id-4

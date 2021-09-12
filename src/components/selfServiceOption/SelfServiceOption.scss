@@ -1,0 +1,45 @@
+@import '../../index';
+
+.selfservice__button {
+  margin-top: 24px;
+}
+.selfservice__title {
+  @extend %large-titlebase;
+  margin-bottom: 16px;
+}
+.selfservice__description {
+  @extend %description-copybase;
+  @include respond(tablet) {
+    max-width: 467px;
+  }
+  @include respond(desktop) {
+    max-width: 504px
+  }
+}
+.selfservice-with-image {
+  display: grid;
+  column-gap: 42px;
+  grid-template-columns: 1fr;
+  @include respond(desktop) {
+    max-width: 1239px;
+    flex-direction: row;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.selfservice-with-image__picture {
+  @include respond(desktop) {
+    order: 1;
+  }
+}
+.selfservice-with-image__picture img {
+  width:100%;
+  height: auto;
+  margin-top: 24px;
+  min-width: 335px;
+  @include respond(tablet) {
+    max-width: 469px;
+  }
+  @include respond(desktop) {
+    max-width: 100%
+  }
+}

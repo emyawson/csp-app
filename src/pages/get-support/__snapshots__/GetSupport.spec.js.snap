@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <GetSupport/> 1`] = `
+<div>
+  <main
+    class="page-container"
+  >
+    <div
+      class="page-container__inner"
+    >
+      <div
+        class="page-container__main"
+      >
+        <div
+          class="breadcrumb"
+        >
+          <nav
+            aria-label="Breadcrumb"
+            class="breadcrumb__nav"
+            data-cytest="breadcrumb"
+            role="navigation"
+          >
+            <ol
+              class="breadcrumb__list"
+              itemprop="breadcrumb"
+              itemscope=""
+              itemtype="http://schema.org/BreadcrumbList"
+            >
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    IKEA
+                  </span>
+                </a>
+                 
+                <meta
+                  content="1"
+                  itemprop="position"
+                />
+              </li>
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl/customer-service"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    Klantenservice
+                  </span>
+                </a>
+                 
+                <meta
+                  content="2"
+                  itemprop="position"
+                />
+              </li>
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl/customer-service/support"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    We are here to help and you should be greatful
+                  </span>
+                </a>
+                 
+                <meta
+                  content="3"
+                  itemprop="position"
+                />
+              </li>
+            </ol>
+          </nav>
+        </div>
+        <div
+          class="headline"
+        >
+          <h1
+            class="headline__title"
+            data-cytest="headline"
+          >
+            Get support with store information
+          </h1>
+          <p
+            class="headline__description"
+          >
+            Get store information such as hours, location, and directions. And hope to see you there!
+          </p>
+        </div>
+        <div
+          class="selfservice"
+        >
+          <div>
+            <div
+              class="selfservice__label"
+              data-cytest="recommended-label"
+            >
+              <p
+                class="label"
+              >
+                Aanbevolen
+              </p>
+            </div>
+            <h2
+              class="selfservice__title"
+              data-cytest="selfservice-headline"
+            >
+              Store information
+            </h2>
+            <div
+              class="selfservice__description"
+              data-cytest="selfservice-description"
+            >
+              <div
+                class="richtext-editorstyle "
+              >
+                <p>
+                  PH: IKEA stores comes in different sizes and with different flavors. From the IKEA stores you know of to our planning studios where you can plan your future dream kitchen to our city stores where you can pick up affordable home decorations and get help with online purchases.
+                </p>
+                <p>
+                  Use the store locator to find your closet store, planning studio, city store or a pick up point for your home deliveries.
+                </p>
+              </div>
+            </div>
+            <button
+              class="btn btn--primary selfservice__button"
+              data-cytest="button-selfService"
+              type="button"
+            >
+              <span
+                class="btn__inner"
+              >
+                
+                Find your local store
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="separator"
+        />
+        <div
+          class="section"
+        >
+          <h2
+            class="section__title"
+          >
+            Nog hulp nodig?
+          </h2>
+          <div
+            class="section__body"
+          >
+            Heb je een andere vraag of een probleem  over de beschikbaarheid van producten en vind je het antwoord niet? Neem contact op met de klantenservice, zij helpen je verder.
+          </div>
+        </div>
+        <div
+          class="card"
+        >
+          <div
+            class="card__title"
+            data-cytest="contactcard-headline"
+          >
+            <h2>
+              Chat with our chatbot
+            </h2>
+          </div>
+          <div
+            class="card__content-block"
+          >
+            <div
+              class="card__description"
+              data-cytest="contactcard-description"
+            >
+              <div
+                class="richtext-editorstyle "
+              >
+                <p>
+                  Meet Buddy, our new chatbot helping in customer service and returns. Buddy is trained to help with information about store opening hours, stock check and order status, to name a few topics.
+                </p>
+              </div>
+            </div>
+            <button
+              aria-label="De klantenservice is momenteel gesloten"
+              class="btn btn--secondary card__button"
+              data-cytest="contactcard-button"
+              type="button"
+            >
+              <span
+                class="btn__inner"
+              >
+                
+                Start chat
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="separator"
+        />
+      </div>
+    </div>
+  </main>
+</div>
+`;

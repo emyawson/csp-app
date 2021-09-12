@@ -1,0 +1,29 @@
+// Global Styles
+// https://npm.m2.blue.cdtapps.com/-/web/detail/@ingka/variables
+
+@import './node_modules/@ingka/variables/style';
+
+$font-XXL: 36px;
+$font-XL: 25px;
+$font-L: 18px;
+$font-M: 16px;
+$font-S: 14px;
+$font-XS: 12px;
+
+
+// Mixins
+
+@mixin respond($breakpoint) {
+  @if($breakpoint == tablet) {
+    @media only screen and (min-width: $breakpoint-m) { @content; }
+  }
+  @if($breakpoint == desktop) {
+    @media (min-width: $breakpoint-l) { @content; }
+  }
+  @if($breakpoint == largeDesktop) {
+    @media (min-width: 1201px) { @content; }
+  }
+};
+
+
+

@@ -1,0 +1,432 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <GetHelp/> 1`] = `
+<div>
+  <main
+    class="page-container"
+  >
+    <div
+      class="page-container__inner"
+    >
+      <div
+        class="page-container__main"
+      >
+        <div
+          class="breadcrumb"
+        >
+          <nav
+            aria-label="Breadcrumb"
+            class="breadcrumb__nav"
+            data-cytest="breadcrumb"
+            role="navigation"
+          >
+            <ol
+              class="breadcrumb__list"
+              itemprop="breadcrumb"
+              itemscope=""
+              itemtype="http://schema.org/BreadcrumbList"
+            >
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    IKEA
+                  </span>
+                </a>
+                 
+                <meta
+                  content="1"
+                  itemprop="position"
+                />
+              </li>
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl/customer-service"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    Klantenservice
+                  </span>
+                </a>
+                 
+                <meta
+                  content="2"
+                  itemprop="position"
+                />
+              </li>
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl/customer-service/support"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    We are here to help and you should be greatful
+                  </span>
+                </a>
+                 
+                <meta
+                  content="3"
+                  itemprop="position"
+                />
+              </li>
+            </ol>
+          </nav>
+        </div>
+        <div
+          class="headline"
+        >
+          <h1
+            class="headline__title"
+            data-cytest="headline"
+          >
+            Get support for IKEA store information and About IKEA
+          </h1>
+          <p
+            class="headline__description"
+          >
+            Choose a topic and we’ll find you the best way to get in touch.
+          </p>
+        </div>
+        <div
+          class="status-order"
+        >
+          <p
+            class="label"
+          >
+            Aanbevolen
+          </p>
+          <h2
+            class="status-order__heading"
+          >
+            If you are looking for spare parts you can order them online
+          </h2>
+          <div
+            class="richtext-editorstyle status-order__description"
+          >
+            <p>
+              PH: Missing a leg for your sofa? Need an extra hinge? If you are looking for spare parts big or small, we’ve got you covered. Order your spare part online.
+            </p>
+          </div>
+          <button
+            class="btn btn--primary status-order__btn"
+            type="button"
+          >
+            <span
+              class="btn__inner"
+            >
+              
+              Order spare parts
+            </span>
+          </button>
+        </div>
+        <ul
+          class="action-list action-list--regular topics-container"
+          data-cytest="subtopics-list"
+        >
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  Stores information
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Opening hours and location
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  In-store activities
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Find out what types of events and workshops are happening at IKEA
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  Campaigns & Offers
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Missing descriptive body text
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  Lost & Found
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Missing descriptive body text
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  About IKEA
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Missing descriptive body text
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  SMÅLAND
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Play area for kids
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+          <li
+            class="action-list-item"
+          >
+            <button
+              class="action-list-item__action"
+            >
+              <span
+                class="action-list-item__label-container"
+              >
+                <span
+                  class="action-list-item__label"
+                >
+                  IKEA Family
+                </span>
+                <span
+                  class="action-list-item__caption"
+                >
+                  Missing descriptive body text
+                </span>
+              </span>
+              <span
+                class="action-list-item__chevron"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-icon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </main>
+</div>
+`;

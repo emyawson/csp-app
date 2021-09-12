@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Headline/> 1`] = `
+<div>
+  <div
+    class="headline"
+  >
+    <h1
+      class="headline__title"
+      data-cytest="headline"
+    />
+  </div>
+</div>
+`;

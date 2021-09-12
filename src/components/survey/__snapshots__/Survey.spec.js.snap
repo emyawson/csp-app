@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Survey/> 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="container__title"
+    >
+      <h4>
+        How was your experience today?
+      </h4>
+    </div>
+    <div
+      class="container__images"
+    >
+      <reactcomponent
+        alt="Angry"
+        class="container__images__angry"
+      />
+      <reactcomponent
+        alt="Annoyed"
+        class="container__images__annoyed"
+      />
+      <reactcomponent
+        alt="Neutral"
+        class="container__images__neutral"
+      />
+      <reactcomponent
+        alt="Happy"
+        class="container__images__happy"
+      />
+      <reactcomponent
+        alt="Very Happy"
+        class="container__images__very-happy"
+      />
+    </div>
+  </div>
+</div>
+`;

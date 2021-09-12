@@ -1,0 +1,30 @@
+%largest-titlebase {
+  color: $colour-neutral-grey-900;
+  font-size: $font-XL;
+  line-height: 34px;
+  letter-spacing: -0.42x;
+  @include respond(tablet) {
+    font-size: $font-XXL;
+    line-height: 48px;
+    letter-spacing: -0.64px;
+  }
+}
+
+%large-titlebase {
+  color: $colour-neutral-grey-900;
+  font-size: $font-L;
+  line-height: 144.4%;
+  @include respond(tablet) {
+    font-size: $font-XL;
+    line-height: 136%;
+    letter-spacing: -0.0042em;
+  }
+}
+%description-copybase {   
+  font-size: $font-S;
+  line-height: 24px;
+  @include respond(desktop) {
+    font-size: $font-M;
+    line-height: 26PX;
+  }
+}

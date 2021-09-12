@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <PlayGround/> 1`] = `
+<div>
+  <main
+    class="page-container"
+  >
+    <div
+      class="page-container__inner"
+    >
+      <div
+        class="page-container__main"
+      >
+        <div
+          class="breadcrumb"
+        >
+          <nav
+            aria-label="Breadcrumb"
+            class="breadcrumb__nav"
+            data-cytest="breadcrumb"
+            role="navigation"
+          >
+            <ol
+              class="breadcrumb__list"
+              itemprop="breadcrumb"
+              itemscope=""
+              itemtype="http://schema.org/BreadcrumbList"
+            >
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    IKEA
+                  </span>
+                </a>
+                 
+                <meta
+                  content="1"
+                  itemprop="position"
+                />
+              </li>
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl/customer-service"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  >
+                    Klantenservice
+                  </span>
+                </a>
+                 
+                <meta
+                  content="2"
+                  itemprop="position"
+                />
+              </li>
+              <li
+                class="breadcrumb__list-item"
+                itemprop="itemListElement"
+                itemscope=""
+                itemtype="http://schema.org/ListItem"
+              >
+                 
+                <a
+                  class="breadcrumb__link link link--black"
+                  href="/nl/nl/customer-service/support"
+                  itemprop="item"
+                >
+                  
+                  <span
+                    class="breadcrumb__item"
+                    data-cytes="crumb"
+                  />
+                </a>
+                 
+                <meta
+                  content="3"
+                  itemprop="position"
+                />
+              </li>
+            </ol>
+          </nav>
+        </div>
+        <div
+          class="container"
+        >
+          <div
+            class="container__title"
+          >
+            <h4>
+              How was your experience today?
+            </h4>
+          </div>
+          <div
+            class="container__images"
+          >
+            <reactcomponent
+              alt="Angry"
+              class="container__images__angry"
+            />
+            <reactcomponent
+              alt="Annoyed"
+              class="container__images__annoyed"
+            />
+            <reactcomponent
+              alt="Neutral"
+              class="container__images__neutral"
+            />
+            <reactcomponent
+              alt="Happy"
+              class="container__images__happy"
+            />
+            <reactcomponent
+              alt="Very Happy"
+              class="container__images__very-happy"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+`;

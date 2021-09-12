@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <RecommendedLabel/> 1`] = `
+<div>
+  <p
+    class="label"
+  >
+    Aanbevolen
+  </p>
+</div>
+`;

@@ -1,0 +1,22 @@
+.richtext-editorstyle {
+  > p {
+    color: inherit;
+  }
+
+  > p > b {
+    font-weight: bold;
+  }
+
+  > p > i {
+    font-style: italic;
+  }
+}
+
+
+.richtext-editorstyle.holidayHours {
+  > p {
+    color: inherit;
+    font-size: 14px;
+    line-height: 29px;
+  }
+}

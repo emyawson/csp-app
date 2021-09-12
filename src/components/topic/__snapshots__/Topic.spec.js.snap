@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Topic/> 1`] = `
+<div>
+  <li
+    class="action-list-item"
+  >
+    <button
+      class="action-list-item__action"
+    >
+      <span
+        class="action-list-item__label-container"
+      >
+        <span
+          class="action-list-item__label"
+        />
+      </span>
+      <span
+        class="action-list-item__chevron"
+      >
+        <svg
+          aria-hidden="true"
+          class="svg-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M15.6 12l-5.785 5.786L8.4 16.372l4.371-4.371-4.37-4.372 1.414-1.414L15.6 12z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </span>
+    </button>
+  </li>
+</div>
+`;

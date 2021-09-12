@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <SelfServiceOption/> 1`] = `
+<div>
+  <div
+    class="selfservice"
+  >
+    <div>
+      <div
+        class="selfservice__label"
+        data-cytest="recommended-label"
+      >
+        <p
+          class="label"
+        >
+          Aanbevolen
+        </p>
+      </div>
+      <h2
+        class="selfservice__title"
+        data-cytest="selfservice-headline"
+      />
+      <div
+        class="selfservice__description"
+        data-cytest="selfservice-description"
+      >
+        <div
+          class="richtext-editorstyle "
+        />
+      </div>
+      <button
+        class="btn btn--primary selfservice__button"
+        data-cytest="button-selfService"
+        type="button"
+      >
+        <span
+          class="btn__inner"
+        >
+          
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="separator"
+  />
+  <div
+    class="section"
+  >
+    <h2
+      class="section__title"
+    >
+      Nog hulp nodig?
+    </h2>
+    <div
+      class="section__body"
+    >
+      Heb je een andere vraag of een probleem  over de beschikbaarheid van producten en vind je het antwoord niet? Neem contact op met de klantenservice, zij helpen je verder.
+    </div>
+  </div>
+</div>
+`;

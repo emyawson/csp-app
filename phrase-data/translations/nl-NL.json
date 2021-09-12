@@ -1,0 +1,186 @@
+[
+    {
+        "id": "f34db65963d5959efbf368a8e5f9816f",
+        "content": "Vandaag gesloten",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "58c564a3eba5d46658572c4e2dd3db12",
+            "name": "hoursClosed",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:40Z",
+        "updated_at": "2021-06-25T07:53:40Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "ba8f9276f9dda919542ead7a9cd3819f",
+        "content": "Vandaag geopend",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "155422f51ca4503f50b2a82182069d9e",
+            "name": "hoursOpen",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:39Z",
+        "updated_at": "2021-06-25T07:53:39Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "a68f14ad6293d206875f4b06192086ca",
+        "content": "Kom op een later tijdstip terug en wij zullen u helpen. In de tussentijd kunt u misschien het antwoord op uw vraag vinden in onze veelgestelde vragen.",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "d25a94e3012bc98efc0a7a6f6963888c",
+            "name": "inlineMessageBody",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:37Z",
+        "updated_at": "2021-06-25T07:53:37Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "29165afdd4c04796c1327bf5d8321371",
+        "content": "Ons klantencentrum is nu gesloten",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "5a09668776e5cce1c2b23f58b7cf7a80",
+            "name": "inlineMessageHead",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:36Z",
+        "updated_at": "2021-06-25T07:53:36Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "3fc4aa591b7459fcc90b6970fb9bf9e3",
+        "content": "De winkel is momenteel gesloten",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "8d46304b98f8c96a2f2330f2aab74dc0",
+            "name": "isClosed",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:30Z",
+        "updated_at": "2021-06-25T07:53:30Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "7768746d330c96f753a3fcdfea0d35e6",
+        "content": "De winkel is momenteel open",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "f1610d10162ca671592706abe066b038",
+            "name": "isOpen",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:29Z",
+        "updated_at": "2021-06-25T07:53:29Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "c62c2c3dfe1948de4f23683b593a7f67",
+        "content": "Uw gesprek met IKEA wordt niet in rekening gebracht",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "1eed83bb15a4296c7dfb576142c1de89",
+            "name": "noCharge",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:31Z",
+        "updated_at": "2021-06-25T07:53:31Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    },
+    {
+        "id": "d6b6de6e3f3fb1ce9f93fa9a1c71601d",
+        "content": "Zoeken naar ondersteuning",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "45f28c1f7afe471ac12f2a3bf472d95b",
+            "name": "searchHeadline",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:33Z",
+        "updated_at": "2021-06-25T07:53:33Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "4a69a5ea50acf8d9376bef002a671444",
+            "name": "nl-NL",
+            "code": "nl-NL"
+        }
+    }
+]

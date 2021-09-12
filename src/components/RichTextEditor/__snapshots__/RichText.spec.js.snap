@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <richTextDocument/> 1`] = `
+<div>
+  <div
+    class="richtext-editorstyle "
+  >
+    <p>
+      <b>
+        Hello
+      </b>
+      <i>
+         world!
+      </i>
+    </p>
+  </div>
+</div>
+`;

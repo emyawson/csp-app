@@ -1,0 +1,112 @@
+[
+    {
+        "id": "58c564a3eba5d46658572c4e2dd3db12",
+        "name": "hoursClosed",
+        "description": null,
+        "name_hash": "92093f8c876f7d6e344983893228ada3",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-24T13:23:30Z",
+        "updated_at": "2021-06-24T13:23:30Z"
+    },
+    {
+        "id": "155422f51ca4503f50b2a82182069d9e",
+        "name": "hoursOpen",
+        "description": null,
+        "name_hash": "734adfdf2c3451dccb450bb26a220587",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-24T13:21:32Z",
+        "updated_at": "2021-06-24T13:21:32Z"
+    },
+    {
+        "id": "d25a94e3012bc98efc0a7a6f6963888c",
+        "name": "inlineMessageBody",
+        "description": "Skapa component that shows when store is closed.",
+        "name_hash": "cc9c99f408023cbcc0aee76d04cc7997",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-24T13:19:04Z",
+        "updated_at": "2021-06-24T13:19:04Z"
+    },
+    {
+        "id": "5a09668776e5cce1c2b23f58b7cf7a80",
+        "name": "inlineMessageHead",
+        "description": "Skapa component that shows when store is closed",
+        "name_hash": "f09c7a7e31b4e348982fabcfabe72dbd",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-24T13:18:01Z",
+        "updated_at": "2021-06-24T13:18:01Z"
+    },
+    {
+        "id": "8d46304b98f8c96a2f2330f2aab74dc0",
+        "name": "isClosed",
+        "description": "The store is currently closed",
+        "name_hash": "7587750400d3c39aead7c1489f6fe7f3",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-04-27T12:14:29Z",
+        "updated_at": "2021-04-27T12:14:29Z"
+    },
+    {
+        "id": "f1610d10162ca671592706abe066b038",
+        "name": "isOpen",
+        "description": "The store is currently open",
+        "name_hash": "5e7466a3ba0d44490bd6a64287013d0c",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-04-27T12:11:53Z",
+        "updated_at": "2021-04-27T12:11:53Z"
+    },
+    {
+        "id": "1eed83bb15a4296c7dfb576142c1de89",
+        "name": "noCharge",
+        "description": "Your call with IKEA will not be charged",
+        "name_hash": "9cfdaba0163e4493247c953a79e0a9e8",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-04-27T12:15:39Z",
+        "updated_at": "2021-04-27T12:15:39Z"
+    },
+    {
+        "id": "45f28c1f7afe471ac12f2a3bf472d95b",
+        "name": "searchHeadline",
+        "description": "VETA team  - Search component",
+        "name_hash": "875cde90b0714b85435aab7847cb7254",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-05-19T07:52:09Z",
+        "updated_at": "2021-05-19T07:52:09Z"
+    },
+    {
+        "id": "527fcc7a24b3e33a9248e06a53b42d5f",
+        "name": "stillNeedHelpBody",
+        "description": null,
+        "name_hash": "3f971518d9afdf9e5b2e0f9a3db0f549",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-01T07:38:30Z",
+        "updated_at": "2021-06-01T07:38:30Z"
+    },
+    {
+        "id": "e67a39e91133d075e3be70ae6ba148cb",
+        "name": "stillNeedHelpTitle",
+        "description": null,
+        "name_hash": "e30ca168fa59a04b726be63d0656e604",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-01T07:39:50Z",
+        "updated_at": "2021-06-01T07:40:16Z"
+    },
+    {
+        "id": "5c00c8ec1d7f1f8aa9c480f9c058f6c8",
+        "name": "test",
+        "description": null,
+        "name_hash": "098f6bcd4621d373cade4e832627b4f6",
+        "plural": false,
+        "tags": [],
+        "created_at": "2021-06-24T16:32:23Z",
+        "updated_at": "2021-06-24T16:32:23Z"
+    }
+]

@@ -1,0 +1,11 @@
+// CMS Topics
+export const FETCH_CMS_REQUEST = 'FETCH_CMS_REQUEST';
+export const FETCH_CMS_SUCCCESS = 'FETCH_CMS_SUCCCESS';
+export const FETCH_CMS_ERROR = 'FETCH_CMS_ERROR';
+
+// Selected topic
+export const SET_SELECTED_TOPIC_ID = 'SET_SELECTED_TOPIC_ID';
+export const SET_SELECTED_CONTACT_ID = 'SET_SELECTED_CONTACT_ID';
+
+// Loading
+export const LOADING_PAGES = 'LOADING_PAGES';

@@ -1,0 +1,26 @@
+name: Create production release
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    name: Make  Release 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "14.x"
+      - run: yarn install
+      - run: yarn run build 
+        env:
+          OPTIMIZELY_KEY: ${{ secrets.OPTIMIZELY_KEY }}
+      # npx uses the local version of semantic-release  we have in our package.json file 
+      # prventing the use of new or latest version of the package that might have  breaking  changes
+      - run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          

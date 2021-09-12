@@ -1,0 +1,83 @@
+@import '../../index';
+
+.card__description p {
+  @extend %description-copybase;
+  margin-top: 16px;
+}
+.card__button, .card__afterHoursMessage {
+  margin-top: 24px;
+}
+.card__disclaimer {
+  margin-top: 24px;
+  color: #767676;
+}
+.card__all-dates-container {
+  margin-top: 32px;
+}
+.card__week-days div {
+  display: flex;
+  margin-right: auto;
+}
+.card__week-days span {
+  width: 120px;
+  margin-top: 8px;
+}
+.card__view-more {
+  margin-top: 24px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.card__opening-hours-headline {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color: #111111;
+  font-weight: bold;
+}
+.card__open, .card__closed  {
+  margin-top: 24px;
+}
+.card-with-image {
+  display: grid;
+  column-gap: 42px;
+  grid-template-columns: 1fr;
+  @include respond(desktop) {
+    max-width: 1239px;
+    grid-template-columns: auto auto;
+  }
+}
+.card-with-image__picture {
+  width:100%;
+  height: auto;
+  margin-top: 24px;
+  min-width: 335px;
+  order: 1;
+  @include respond(tablet) {
+    max-width: 469px;
+  }
+  @include respond(desktop) {
+    order: 0;
+    margin-top: 0px;
+    max-width: 100%;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    max-width: 588px;
+  }
+}
+.card__content-block {
+  order: 2;
+  @include respond(tablet) {
+    max-width: 467px;
+  }
+  @include respond(desktop) {
+    max-width: 504px;
+  }
+}
+.card__title h2 {
+  @extend %large-titlebase;
+}
+.separator {
+  max-width: 1239px;
+  margin-top: 42px;
+  margin-bottom: 42px;
+  border-bottom: 1px solid rgba(223, 223, 223, 1);
+}

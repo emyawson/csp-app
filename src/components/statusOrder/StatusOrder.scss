@@ -1,0 +1,38 @@
+@import '../../index';
+
+.status-order {
+  @include respond(tablet) {
+    &__description {
+      min-width: 334px;
+    }
+
+    &__heading {
+      max-width: 293px;
+    }
+  }
+  @include respond(mobile) {
+    &__description {
+      min-width: unset;
+      width: 100%;
+    }
+
+    &__heading {
+      width: 100%;
+    }
+  }
+
+  &__description {
+    font-size: $font-S;
+    margin-top: 16px;
+    max-width: 607px;
+  }
+
+  &__heading {
+    @extend %large-titlebase;
+    max-width: 293px;
+  }
+
+  &__btn {
+    margin-top: 24px;
+  }
+};

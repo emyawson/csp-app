@@ -1,0 +1,41 @@
+@import '../../index';
+
+
+.topic-wrapper {
+  min-height: 236vw;
+  @media only screen and (min-width: 429px) {
+    min-height: 152vw;
+  }
+  @include respond(tablet) {
+    min-height: 70vw;
+  }
+  @include respond(desktop) {
+    min-height: 34vw;
+  }
+  @include respond(largeDesktop) {
+    min-height: 13vw;
+  }
+}
+
+.topics-container {
+  column-gap: 22px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  @include respond(tablet) {
+  grid-template-columns: repeat(2, 1fr);
+}
+@include respond(desktop) {
+  column-gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+}
+@include respond(largeDesktop) {
+  grid-template-columns: repeat(4, 1fr);
+}
+};
+
+.topics-container-additional {
+  @extend .topics-container;
+  @include respond(largeDesktop) {
+  grid-template-columns: repeat(3, 1fr);
+}
+};

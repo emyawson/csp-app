@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <ContactCard/> 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <div
+      class="card__title"
+      data-cytest="contactcard-headline"
+    >
+      <h2 />
+    </div>
+    <div
+      class="card__content-block"
+    >
+      <div
+        class="card__description"
+        data-cytest="contactcard-description"
+      >
+        <div
+          class="richtext-editorstyle "
+        >
+          <p>
+            <b>
+              Hello
+            </b>
+            <i>
+               world!
+            </i>
+          </p>
+        </div>
+      </div>
+      <button
+        aria-label="De klantenservice is momenteel gesloten"
+        class="btn btn--secondary card__button"
+        data-cytest="contactcard-button"
+        type="button"
+      >
+        <span
+          class="btn__inner"
+        >
+          
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="separator"
+  />
+</div>
+`;

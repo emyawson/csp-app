@@ -1,0 +1,12 @@
+@import '../../index';
+
+
+.page-container, {
+.page-container__main, 
+.page-container__inner
+  min-height: 100vh;
+
+  @include respond(desktop) {
+    min-height: 100vh;
+  }
+}

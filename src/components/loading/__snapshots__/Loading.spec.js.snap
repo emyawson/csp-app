@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <Loading/> 1`] = `
+<div>
+  <div>
+    <span
+      class="link"
+    >
+      <div
+        class="info"
+      >
+        <div
+          class="text-wrapper"
+        >
+          <div
+            class="skeleton label"
+            style="width: 100%;"
+          />
+        </div>
+      </div>
+    </span>
+  </div>
+</div>
+`;

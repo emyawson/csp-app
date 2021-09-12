@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders <StatusOrder/> 1`] = `
+<div>
+  <div
+    class="status-order"
+  >
+    <p
+      class="label"
+    >
+      Aanbevolen
+    </p>
+    <h2
+      class="status-order__heading"
+    />
+    <button
+      class="btn btn--primary status-order__btn"
+      type="button"
+    >
+      <span
+        class="btn__inner"
+      >
+        
+      </span>
+    </button>
+  </div>
+</div>
+`;

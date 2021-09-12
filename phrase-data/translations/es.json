@@ -1,0 +1,186 @@
+[
+    {
+        "id": "1e69cc757d181c309c71a4f059da1fb4",
+        "content": "Cerrado hoy",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "58c564a3eba5d46658572c4e2dd3db12",
+            "name": "hoursClosed",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:01Z",
+        "updated_at": "2021-06-25T07:53:01Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "5a40fe126614729e14e7f565d784ea11",
+        "content": "Abierto hoy",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "155422f51ca4503f50b2a82182069d9e",
+            "name": "hoursOpen",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:53:00Z",
+        "updated_at": "2021-06-25T07:53:00Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "f241047fe500abc2c481225b202f48ba",
+        "content": "Vuelve más tarde y te ayudaremos. Mientras tanto, tal vez puedas encontrar la respuesta a tu pregunta en nuestras preguntas más frecuentes.",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "d25a94e3012bc98efc0a7a6f6963888c",
+            "name": "inlineMessageBody",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:52:59Z",
+        "updated_at": "2021-06-25T07:52:59Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "e51c48bf88ae5f9e952cdf0381b80829",
+        "content": "Nuestro centro de atención al cliente ya está cerrado",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "5a09668776e5cce1c2b23f58b7cf7a80",
+            "name": "inlineMessageHead",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:52:57Z",
+        "updated_at": "2021-06-25T07:52:57Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "8d2f230d7d8e991beb2f48b41e970428",
+        "content": "La tienda está cerrada actualmente",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "8d46304b98f8c96a2f2330f2aab74dc0",
+            "name": "isClosed",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:52:52Z",
+        "updated_at": "2021-06-25T07:52:52Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "8b67a94b22199a644ae9c646139d08ce",
+        "content": "La tienda está abierta actualmente",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "f1610d10162ca671592706abe066b038",
+            "name": "isOpen",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:52:50Z",
+        "updated_at": "2021-06-25T07:52:50Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "cf6a39678827968af038d92f105e0a45",
+        "content": "No se cargará tu llamada a IKEA.",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "1eed83bb15a4296c7dfb576142c1de89",
+            "name": "noCharge",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:52:53Z",
+        "updated_at": "2021-06-25T07:52:53Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    },
+    {
+        "id": "48fe9d736f9b3af8751cf74030e892b3",
+        "content": "Buscar apoyo",
+        "unverified": true,
+        "excluded": false,
+        "plural_suffix": "",
+        "key": {
+            "id": "45f28c1f7afe471ac12f2a3bf472d95b",
+            "name": "searchHeadline",
+            "plural": false,
+            "data_type": "string",
+            "tags": []
+        },
+        "created_at": "2021-06-25T07:52:54Z",
+        "updated_at": "2021-06-25T07:52:54Z",
+        "placeholders": [],
+        "state": "unverified",
+        "locale": {
+            "id": "7ed0df3302dd766b7c1cfc21fcf1e746",
+            "name": "es-ES",
+            "code": "es"
+        }
+    }
+]
